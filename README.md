@@ -5,3 +5,10 @@ A AWS glue crawler is applied on the data to build metadata and extract a schema
 
 data collector api : https://cvbyv911bf.execute-api.us-east-2.amazonaws.com/default/DataCollector
 
+
+![Screenshot](datacollector.png)
+
+
+![Screenshot](monitoring.png)
+
+
